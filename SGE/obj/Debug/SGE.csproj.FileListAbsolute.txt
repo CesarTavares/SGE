@@ -1,0 +1,43 @@
+G:\EngSoftI\SGE\SGE\bin\Debug\SGE.exe.config
+G:\EngSoftI\SGE\SGE\bin\Debug\SGE.exe
+G:\EngSoftI\SGE\SGE\bin\Debug\SGE.pdb
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.csproj.AssemblyReference.cache
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.Properties.Resources.resources
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.csproj.GenerateResource.cache
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.csproj.CoreCompileInputs.cache
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.exe
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.pdb
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.frmCadastroAluno.resources
+G:\EngSoftI\SGE\SGE\obj\Debug\SGE.frmLogin.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\SGE.exe.config
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\SGE.exe
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\SGE.pdb
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.csproj.AssemblyReference.cache
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.frmCadastroAluno.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.frmLogin.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.Properties.Resources.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.csproj.GenerateResource.cache
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.csproj.CoreCompileInputs.cache
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.exe
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.pdb
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\MySql.Data.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\Google.Protobuf.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\Zstandard.Net.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\BouncyCastle.Crypto.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\Ubiety.Dns.Core.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\Renci.SshNet.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\System.Memory.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\System.Buffers.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\K4os.Compression.LZ4.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\K4os.Hash.xxHash.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\System.Numerics.Vectors.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\bin\Debug\MySql.Data.xml
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.exe.config
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.csproj.CopyComplete
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.frmMenu.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.frmDgvAluno.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.frmCadLogin.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.frmAlterarAluno.resources
+E:\FATEC\2_Semestre\Eng.Soft I\SGE\SGE\obj\Debug\SGE.frmExcluir.resources
